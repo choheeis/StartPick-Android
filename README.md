@@ -8,4 +8,8 @@
 >
 > 서버 개발 : 조연희, 이재란
 
-![startpick](https://user-images.githubusercontent.com/31889335/69216522-c0cc0580-0baf-11ea-8bfd-9578a6bc68c1.gif)
+<br>
+
+![startpick](https://user-images.githubusercontent.com/31889335/69216655-14d6ea00-0bb0-11ea-884a-62270abea625.gif)
+
+
